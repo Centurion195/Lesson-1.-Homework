@@ -1,0 +1,15 @@
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/bin/Debug/net7.0/#10
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/bin/Debug/net7.0/#10.deps.json
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/bin/Debug/net7.0/#10.runtimeconfig.json
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/bin/Debug/net7.0/#10.dll
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/bin/Debug/net7.0/#10.pdb
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/obj/Debug/net7.0/#10.csproj.AssemblyReference.cache
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/obj/Debug/net7.0/#10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/obj/Debug/net7.0/#10.AssemblyInfoInputs.cache
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/obj/Debug/net7.0/#10.AssemblyInfo.cs
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/obj/Debug/net7.0/#10.csproj.CoreCompileInputs.cache
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/obj/Debug/net7.0/#10.dll
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/obj/Debug/net7.0/refint/#10.dll
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/obj/Debug/net7.0/#10.pdb
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/obj/Debug/net7.0/#10.genruntimeconfig.cache
+/Users/vadim/Documents/Yandex.Disk.localized/GeekBrains/Семинары/2) Знакомство с языками программирования/Lesson 1. Homework/#10/obj/Debug/net7.0/ref/#10.dll
